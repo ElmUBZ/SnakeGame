@@ -1,0 +1,10 @@
+Bobby 40
+Lori 30
+Bob 20
+Guys 20
+Jim 0
+Kim 0
+Helen 0
+Laura 0
+Sam 0
+Guy 0
